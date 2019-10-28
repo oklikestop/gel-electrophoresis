@@ -2,7 +2,7 @@
 
 ![gel-function-p1](http://www.bio-rad.com/webroot/web/images/lsr/solutions//technologies/protein_electrophoresis_blotting_and_imaging/protein_electrophoresis/technology_detail/pet11_img1.jpg)
 
-# ***Gel Electrophoresis***
+# **Gel Electrophoresis**
 1. isolate DNA and preprocess it, then mix in dye  to help visualize the movement of the sample through the gel. [source](https://biologydictionary.net/gel-electrophoresis/)
 1. TAE buffer provides a source of ions for setting up the *electric field* during electrophoresis.   [source](https://biologydictionary.net/gel-electrophoresis/)
 1. The weight-to-volume concentration of agarose in TAE buffer is used to prepare the solution.   [source](https://biologydictionary.net/gel-electrophoresis/)
@@ -18,7 +18,7 @@
 
 * The agarose-TAE solution is heated to dissolve the agarose.  [source](https://biologydictionary.net/gel-electrophoresis/)
  
-# ***IN THE FUTURE***
+# **IN THE FUTURE**
 
 In the future of *Gel* *Electrophoresis* there might be.
 
